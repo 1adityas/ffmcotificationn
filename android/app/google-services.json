@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544147455662",
+    "project_id": "oc-notif-github",
+    "storage_bucket": "oc-notif-github.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544147455662:android:c0f940136e49c975e2773f",
+        "android_client_info": {
+          "package_name": "com.example.fcm_flutter_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544147455662-aicgm4u5b50h8i0da0ikbv6t5s7hhjdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmNGQdpCzHDiyU4jK0ECLyGg9osGTYxMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544147455662-aicgm4u5b50h8i0da0ikbv6t5s7hhjdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
